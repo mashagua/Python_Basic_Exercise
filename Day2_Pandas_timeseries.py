@@ -32,3 +32,4 @@ def count_percentage(datafile):
 
 if __name__ == "__main__":
     datafile = "Data/服务记录.xlsx"
+    count_percentage(datafile)
